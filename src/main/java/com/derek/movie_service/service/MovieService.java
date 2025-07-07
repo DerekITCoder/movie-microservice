@@ -8,7 +8,7 @@ import com.derek.movie_service.domain.Genre;
 import com.derek.movie_service.dto.MovieDto;
 import com.derek.movie_service.mapper.EntityDtoMapper;
 import com.derek.movie_service.repository.MovieRepository;
-
+//added service
 @Service
 public class MovieService {
 
